@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: public.ecr.aws/q4s6a0g0/sample-webapp:latest
+        image: public.ecr.aws/q4s6a0g0/sample-webapp:latest1
         ports:
         - name: web
           containerPort: 80
